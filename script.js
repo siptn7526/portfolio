@@ -9,7 +9,6 @@
 
 		//화면 표시 속도
 		$('#mask').fadeIn(300);      
-		$('#mask').fadeTo("fast",0.8);    
 
 		//윈도우 같은 거 띄운다.
 		$('.window').show();
