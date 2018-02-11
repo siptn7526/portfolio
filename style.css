@@ -1,8 +1,10 @@
+/* Styles go here */
+
   
   #mask {  
       position:absolute;  
       z-index:9000;  
-      background-color:#000;  
+      background-color:#191919;  
       display:none;  
       left:0;
       top:0;
@@ -13,4 +15,7 @@
       left:100px;
       top:100px;
       z-index:10000;
+    }
+  .navbar-toggle {
+    display: block;
     }
