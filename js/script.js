@@ -8,7 +8,7 @@
 		$('#mask').css({'width':maskWidth,'height':maskHeight});  
 
 		//애니메이션 효과 - 일단 1초동안 까맣게 됐다가 80% 불투명도로 간다.
-		$('#mask').fadeIn(1000);      
+		$('#mask').fadeIn(500);      
 		$('#mask').fadeTo("slow",0.8);    
 
 		//윈도우 같은 거 띄운다.
