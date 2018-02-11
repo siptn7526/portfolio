@@ -16,6 +16,9 @@
       top:100px;
       z-index:10000;
     }
-  .navbar-toggle {
+@media (min-width: 768px)
+.navbar-burger .navbar-toggle {
     display: block;
-    }
+    margin-right: 0;    
+}
+
